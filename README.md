@@ -16,5 +16,11 @@ Enter File Name : data.txt
 Enter Word to know Its frequeny : Iron
 
 Frequency of "Iron" is 2
+*****************************************
+Enter File Name : data.txt
+
+Enter Word to know Its frequeny : the
+
+Frequency of "the" is 19
 
 
