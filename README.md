@@ -8,11 +8,13 @@
 Enter File Name : data.txt
 
 Enter Word to know Its frequeny : iron
+
 iron is not in file
 *****************************************
 Enter File Name : data.txt
 
 Enter Word to know Its frequeny : Iron
+
 Frequency of "Iron" is 2
 
 
